@@ -1,0 +1,14 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+requests==2.31.0
+
+# Optional: For enhanced language detection and translation
+# langdetect==1.0.9
+# googletrans==4.0.0rc1
+# google-cloud-translate==3.12.1
+
+# For production deployment
+gunicorn
+
+# Additional dependencies for enhanced features
+regex==2023.8.8
